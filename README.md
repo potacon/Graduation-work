@@ -16,6 +16,10 @@
 * 도구 : git, VSCode
 * 모델 : KR-SBERT( Embedding model )
 
+## web & server
+
+react를 사용하여 web을 구축하였고 회원가입 및 로그인 데이터는 MongoDB를 사용하였다.<br>
+그 후 웹과 챗봇의 서버를 연결하는 부분에서는 flask 서버를 사용하였다.
 
 ## 프로젝트 실행되는 순서 
 
