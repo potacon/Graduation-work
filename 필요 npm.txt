@@ -1,0 +1,5 @@
+npm install axios
+npm install http-proxy-middleware
+npm install redux@4.1.2 react-redux
+npm install redux redux-promise redux-thunk
+npm install react-router-dom

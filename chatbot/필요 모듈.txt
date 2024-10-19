@@ -1,0 +1,13 @@
+pip install -U sentence-transformers
+pip install sentence_transformers
+conda install tensorflow
+pip install tensorflow
+pip install konlpy
+pip install numpy
+pip install pandas
+conda install pytorch
+pip install pytorch torchvision torchaudio cpuonly
+pip install openpyxl
+pip install flask
+
+아나콘다 python버전 3.8.16사용

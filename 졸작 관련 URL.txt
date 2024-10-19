@@ -1,0 +1,63 @@
+1. 딥러닝 
+2. flask, 딥러닝 연동
+3. flask, db 연동
+	3-1 flask nodejs 연동
+4. react 연동  
+
+react와 express연동
+https://coding-hyeok.tistory.com/21
+https://crmrelease.tistory.com/162
+
+node react mysql 게시판 강의
+https://artistjay.tistory.com/27
+
+
+react 공부
+https://ddeck.tistory.com/5
+
+인공지능 코딩할 때 참고
+https://beoks.tistory.com/66
+
+게시판
+https://falaner.tistory.com/60
+
+
+머신러닝 + flask
+https://abluesnake.tistory.com/106#2.%20%EC%98%88%EC%8B%9C%EC%BD%94%EB%93%9C
+
+
+php mysql 회원가입 구현
+
+데이터베이스 로그인 관련
+https://velog.io/@timcodejs/PHP-MySQL-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B0%8F-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1
+
+
+flask 가상환경
+https://problem-solving.tistory.com/13
+
+딥러닝 flask
+https://hyunkyung12.github.io/2019/09/11/flask_keras/
+딥러닝 flask 2
+https://velog.io/@youngjun0627/flask%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%AA%A8%EB%8D%B8-%EC%84%9C%EB%B9%99%ED%95%98%EA%B8%B0
+
+
+인공지능 공부방법
+https://velog.io/@dongyi/WhatShouldIDoForAI
+
+vscode 아나콘다 가상환경
+https://itsjh.tistory.com/40
+
+대학 ai 질의응답 챗봇
+https://seokii.tistory.com/147
+
+코딩애플 chatgpt3 이용해서 api 만들기
+https://www.youtube.com/watch?v=rdWavi2M2HE&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C
+
+
+cnn 웹 연동
+https://medium.com/@inerplat/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EB%8F%84%EC%A0%84%EA%B8%B0-e9ca38d53c1b
+
+flask 인공지능 연동2
+https://niceman.tistory.com/193
+flask 인공지느 연동1
+https://niceman.tistory.com/192
